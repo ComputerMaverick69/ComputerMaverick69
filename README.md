@@ -1,17 +1,49 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ComputerMaverick69&label=Profile%20views&color=0e75b6&style=flat" alt="ComputerMaverick69" /> &nbsp
- <a href="https://twitter.com/codemaverick69" target="blank"><img src="https://img.shields.io/twitter/follow/codemaverick69?logo=twitter&style=flat&color=blueviolet" alt="codemaverick69" /></a> </p>
- 
- 
- - 👋 Hi, I’m @ComputerMaverick69 - Timmy Iwoni
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=ComputerMaverick69&label=Profile%20views&color=0e75b6&style=flat" alt="ComputerMaverick69" /> &nbsp
+ <a href="https://twitter.com/codemaverick69" target="blank"><img src="https://img.shields.io/twitter/follow/codemaverick69?logo=twitter&style=flat&     color=blueviolet" alt="codemaverick69" /></a> 
+</p>
+
+<p>
+ <a href="https://www.twitter.com/codemaverick69">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+ </a> 
+ <a href="https://www.linkedin.com/in/mokkapps">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+ </a> 
+ <a href="https://www.instagram.com/timmy9ja/">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+ </a> 
+ <a href="https://medium.com/@timmyking8">
+  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
+ </a> 
+</p>
+
+- 👋 Hi, I’m @ComputerMaverick69 - Timmy Iwoni
 - 👀 I enjoy building APIs and Backends for applications
 - 👀 I enjoy building Mobile Applications and Software Systems
-- 🌱 I love PHP Laravel so much, They are my Language and Framework of choice.
+
+**Languages and Tools:** 
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+
+<!-- - 🌱 I love PHP Laravel so much, They are my Language and Framework of choice.
 - 👌 I'm really interested in the blockchain technology that I find myself making reserches concernig how to use it in solving local problems.
 - 😍 I would also want to mention this special project that I was a part of - <b>iQuest</b>, you would check it out here <b>https://iquest.com.ng</b>
 - 🎍 My goal is simple: build solutions to the problems I've been exposed to and find joy in seeing people using it, when it's actually solving a problem.
 - 🙃 I have a target of building a really useful Laravel Package before the end of 2022, I want other developers to use some piece of my code as I've had the privilege to use others'.
 - 💞️ When I'm not coding, I'm writing poetry or a short story, or you might find me playing the guitar
-- 📫 You can reach me on <a href="https://wa.me/2348130138694" target="_blank">Whatsapp</a> or through my website <b>https://reevatech.africa </b>
+- 📫 You can reach me on <a href="https://wa.me/2348130138694" target="_blank">Whatsapp</a> or through my website <b>https://reevatech.africa </b> -->
 ---
 
 ### GitHub Stats
