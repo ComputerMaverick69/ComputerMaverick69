@@ -64,6 +64,9 @@
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerMaverick69&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/computermaverick69/github-readme-stats)
 
+### My Continuous Learning Journey
+[![roadmap.sh](https://roadmap.sh/card/wide/66f26bebc45e253cb0f5ccaf?variant=dark)](https://roadmap.sh)
+
 ### Streak Stats Activity
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ComputerMaverick69&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
